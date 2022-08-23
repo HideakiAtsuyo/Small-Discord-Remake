@@ -1,6 +1,6 @@
 # Small-Discord-Remake
 
-## What Will Contain This Repo ?
+## What Will This Repo Contain ?
 
 A very small remake of Discord with the exact same UI (if possible)
 
