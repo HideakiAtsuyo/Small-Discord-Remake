@@ -4,6 +4,10 @@
 
 A very small remake of Discord with the exact same UI (if possible)
 
+## Any Planned Release Date ?
+
+I will take my time to make it and try to make it clean and easy to setup so no realase date is planned but it should be done in maximum 3 months (yeah I'm a lazy person btw)
+
 ## What Will Be The Features
 
 - Chat:
